@@ -1,0 +1,13 @@
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.exe
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.deps.json
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.runtimeconfig.json
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.runtimeconfig.dev.json
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.dll
+C:\Users\erik0\source\repos\Triangulos\Triangulos\bin\Debug\netcoreapp3.1\Triangulos.pdb
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.AssemblyInfoInputs.cache
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.AssemblyInfo.cs
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.dll
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.pdb
+C:\Users\erik0\source\repos\Triangulos\Triangulos\obj\Debug\netcoreapp3.1\Triangulos.genruntimeconfig.cache
